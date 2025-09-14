@@ -50,3 +50,9 @@ CMD
 -copy .env.example .env
 -php artisan migrate
 -php artisan serve
+
+## Creators 
+- Austin Mbogo - SCCJ/00649/2023
+- Jeff Murimi - SCCJ/00641/2023
+- Wallace Oduor - SCCJ/00657/2023
+- Patrick Mogoa - SCCJ/00658/2023
